@@ -1,0 +1,11 @@
+Pystytkö ajastamalla havaitsemaan eron yhtäsuuruusvertailussa kun verrataan keskenään 
+a) kahta samaa 50 merkin merkkijonoa? 
+b) kahta toisistaan eroavaa 50 merkin merkkijonoa?
+
+Vastaus: 1a) pystyy 1b) pystyy myös
+
+Onko työkalullasi mahdollista tehdä vertailua, johon kuluva aika ei riipu vertailtavien merkkijonojen sisällöstä, 
+eli erityisesti siitä kuinka monta samaa merkkiä niiden alussa on? Miten? Mitä haasteita tässä voisi olla?
+
+vastaus: 2) on mahdollista. Tähän en löytänyt koodiesimerkkiä mutta haasteet voisivat olla esimerkiksi eripituiset merkkijonot, 
+jotka ovat haavoittuvaisempia hyökkäyksille. 
