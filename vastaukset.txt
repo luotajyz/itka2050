@@ -8,4 +8,4 @@ Onko työkalullasi mahdollista tehdä vertailua, johon kuluva aika ei riipu vert
 eli erityisesti siitä kuinka monta samaa merkkiä niiden alussa on? Miten? Mitä haasteita tässä voisi olla?
 
 vastaus: 2) on mahdollista. Tähän en löytänyt koodiesimerkkiä mutta haasteet voisivat olla esimerkiksi eripituiset merkkijonot, 
-jotka ovat haavoittuvaisempia hyökkäyksille. 
+jotka ovat haavoittuvaisempia ajastushyökkäyksille. 
